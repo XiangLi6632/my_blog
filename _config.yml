@@ -101,7 +101,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/XiangLi6632/XiangLi6632.github.oi
+  repository: https://github.com/XiangLi6632/XiangLi6632.github.oi.git
   branch: master
 
 search:
